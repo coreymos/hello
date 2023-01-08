@@ -4,7 +4,7 @@ This portfolio is a collection of my work that has helped me learn and grow as a
 
 The purpose of this software is to display "Hello World!" onto the screen.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/6pnzHfMrNGE)
 
 # Development Environment
 
