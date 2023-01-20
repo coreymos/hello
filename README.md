@@ -1,6 +1,6 @@
 # Overview
 
-This portfolio is a collection of my work that has helped me learn and grow as a software.
+This portfolio is a collection of my work that has helped me learn and grow as a software engineer.
 
 The purpose of this software is to display "Hello World!" onto the screen.
 
